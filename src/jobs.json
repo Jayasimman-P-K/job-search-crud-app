@@ -83,34 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "89fd",
-      "type": "Full-Time",
-      "title": "Ira Mclaughlin",
-      "description": "Ea similique molesti",
-      "location": "Labore et et quo cum",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "Dillon Fleming Inc",
-        "description": "Aut nemo aute eum co",
-        "contactEmail": "tufyku@mailinator.com",
-        "contactPhone": "+1 (562) 381-1059"
-      }
-    },
-    {
-      "title": "Vue Dev Intern",
-      "type": "Full-Time",
-      "location": "Labore et et quo cum",
-      "description": "Ea similique molesti",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "Dillon Fleming Inc",
-        "description": "Aut nemo aute eum co",
-        "contactEmail": "tufyku@mailinator.com",
-        "contactPhone": "+1 (562) 381-1059"
-      },
-      "id": "838a"
     }
   ]
 }
